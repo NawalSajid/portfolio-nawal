@@ -1,0 +1,9 @@
+ {
+            "id": "experience, add this is section.json when needed",
+            "categoryId": "background",
+            "jsonPath": "/data/sections/experience.json",
+            "faIcon": "fa-solid fa-briefcase"
+            
+        }
+
+        

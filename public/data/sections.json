@@ -18,14 +18,9 @@
             "jsonPath": "/data/sections/skills.json",
             "faIcon": "fa-solid fa-tools"
         },
+        
         {
-            "id": "experience",
-            "categoryId": "background",
-            "jsonPath": "/data/sections/experience.json",
-            "faIcon": "fa-solid fa-briefcase"
-        },
-        {
-            "id": "portfolio",
+            "id": "projects",
             "categoryId": "showcase",
             "jsonPath": "/data/sections/portfolio.json",
             "faIcon": "fa-solid fa-folder-open"
