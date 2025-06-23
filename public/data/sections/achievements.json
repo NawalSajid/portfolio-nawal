@@ -122,6 +122,8 @@
                     "faIcon": "fa-brands fa-aws",
                     "faIconColors": {"bg": "#FFD700", "fill": "#111"},
                     "date": {"year": 2024, "month": 2},
+                     "link": {"href": "https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIzMjE4IiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvdGh1bWJfNDg2MDk3NV8xNzA3NDIwODk3LnBuZyIsInVzZXJuYW1lIjoiTmF3YWwgU2FqaWQifQ%3D%3D&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fdashboard%2Fcertificate&%24web_only=true&_branch_match_id=1304752869296701971&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVD6%2BMLM7Odg6v8EyyrytKTUstKsrMS49PKsovL04tsnVNSU8FAKhiVGoogle%20Cloud%20InnovatorKY9AAAA
+", "tooltipString": "see_certification"},
                     "locales": {
                         "en": {
                             "title": "{{Amazon}} Web Services",
