@@ -1,0 +1,311 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Life recently",
+                "title_short_nav": "Updates",
+                "title_long_prefix": "Take a look at my",
+                "title_long": "Recent {{Updates}}"
+            },
+            "es": {
+                "title_short": "Vida Reciente",
+                "title_short_nav": "Actualizaciones",
+                "title_long_prefix": "Consulta mis",
+                "title_long": "Actualizaciones {{Recientes}}"
+            },
+            "fr": {
+                "title_short": "Vie Récente",
+                "title_short_nav": "Mises à Jour",
+                "title_long_prefix": "Découvrez mes",
+                "title_long": "Dernières {{Mises à Jour}}"
+            },
+            "ko": {
+                "title_short": "최근의 삶",
+                "title_short_nav": "업데이트",
+                "title_long_prefix": "내 최근",
+                "title_long": "{{업데이트}}를 확인해 보세요"
+            }
+        }
+    },
+
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleFacts",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                
+    
+                {
+                    "id": 3,
+                    "img": null,
+                    "faIcon": "fa-solid fa-graduation-cap",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "1,000+",
+                            "text": "Hours of Learning"
+                        },
+                        "es": {
+                            "text": "Horas de Aprendizaje"
+                        },
+                        "fr": {
+                            "text": "Heures d'Apprentissage"
+                        },
+                        "ko": {
+                            "text": "학습 시간"
+                        }
+                    }
+                },
+               
+                {
+                    "id": 5,
+                    "img": null,
+                    "faIcon": "fa-solid fa-globe",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "08",
+                            "text": "Tech Events Explored"
+                        },
+                        "es": {
+                            "text": "Eventos Tecnológicos Explorados"
+                        },
+                        "fr": {
+                            "text": "Événements Technologiques Explorés"
+                        },
+                        "ko": {
+                            "text": "기술 행사 탐방"
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "img": null,
+                    "faIcon": "fa-solid fa-laptop-code",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "1,000,000+",
+                            "text": "Lines of code"
+                        },
+                        "es": {
+                            "text": "Líneas de código"
+                        },
+                        "fr": {
+                            "text": "Lignes de code"
+                        },
+                        "ko": {
+                            "text": "코드 라인 수"
+                        }
+                    }
+                },
+                {
+  "id": 7,
+  "img": null,
+  "faIcon": "fa-solid fa-lightbulb",
+  "faIconColors": { "bg": "", "fill": "" },
+  "locales": {
+    "en": {
+      "title": "Innovator",
+      "text": "Ideas turned into impact"
+    },
+    "es": {
+      "title": "Innovador",
+      "text": "Ideas convertidas en impacto"
+    },
+    "fr": {
+      "title": "Innovateur",
+      "text": "Des idées devenues impact"
+    },
+    "ko": {
+      "title": "혁신가",
+      "text": "아이디어를 영향력으로"
+    }
+  }
+}
+
+            ]
+        },
+
+        {
+            "id": 2,
+            "component": "ArticleThread",
+            "locales": {
+                "en": { "title": "Quick {{Facts}}" },
+                "es": { "title": "Feed de {{Noticias}}" },
+                "fr": { "title": "Fil d'{{Actualités}}" },
+                "ko": { "title": "{{뉴스}} 피드" }
+            },
+            "settings": {
+                "max_rows_collapse_threshold": 3,
+                "order_items_by": "dateStart",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+  "id": 1,
+  "date": {"year": 2023, "month": 8},
+  "preview": {
+    "links": [
+        {
+        "href": "https://www.linkedin.com/in/nawal-sajid-050010253/",
+        "tooltipString": "open_link",
+        "faIcon": "fa-solid fa-link"
+      }
+    ],
+    "screenshots": [],
+    "screenshotsAspectRatio": "",
+    "youtubeVideo": ""
+  },
+  "locales": {
+    "en": {
+      "title": "Attended {{DevFest 2023 - GDG Live Pakistan}}",
+      "province": "Gilgit-Baltistan",
+      "country": "Pakistan",
+      "institution": "GDG Live Pakistan",
+       "text": "I recently attended a well-organized tech event that provided valuable knowledge and networking opportunities. The sessions were interactive and covered a variety of topics led by experienced speakers. It was a great platform to connect with like-minded professionals and enhance my understanding of current technological trends.",
+      "list": [
+        "Engaged with [[Eric Bhatti]], [[Arsalan Khattak]], and [[Hufsa Munawar]] through interactive sessions⚡",
+        "Learned about improving user experience from expert [[Talal Athar]]",
+        "Attended an insightful pitching workshop by [[Saba Kalsoom]]",
+        "Benefited from panel discussions featuring [[Hassaan Yousafzai]], [[Asharib Ahmed]], and [[Sarwat Rizvi]]"
+      ]
+    }
+  }
+},
+
+                {
+  "id": 2,
+  "date": {"year": 2023, "month": 11},
+  "preview": {
+    "links": [
+      {
+        "href": "https://www.linkedin.com/in/nawal-sajid-050010253/",
+        "tooltipString": "open_link",
+        "faIcon": "fa-solid fa-link"
+      }
+    ],
+    "screenshots": [],
+    "screenshotsAspectRatio": "",
+    "youtubeVideo": ""
+  },
+  "locales": {
+    "en": {
+     "title": "Attended {{DevFest 2023 – GDG Islamabad}}",
+      "province": "Islamabad",
+      "country": "Pakistan",
+      "institution": "Google Developer Groups Islamabad",
+            "text": "I attended [[DevFest'23]], hosted by Google Developer Groups Islamabad. The event provided valuable networking opportunities and featured impressive AI insights presented by Arslan Javed from Musavir.AI. Muhammad Umar Nazir led an engaging networking session, creating a welcoming environment. Thanks to all speakers for their valuable contributions. The event concluded with giveaways and a memorable closing ✨",
+
+      "list": [
+        "Explored cutting-edge AI imagery and technology innovations",
+        "Participated in a lively and memorable networking session",
+        "Connected with industry experts and passionate developers",
+        "Enjoyed a warm community atmosphere and great event organization"
+      ]
+    }
+  }
+},
+
+               {
+  "id": 3,
+  "date": {"year": 2023, "month": 10},
+  "preview": {
+    "links": [
+      {"href": "https://www.linkedin.com/in/nawal-sajid-050010253/", "tooltipString": "open_link", "faIcon": "fa-solid fa-link"}
+    ],
+    "screenshots": [],
+    "screenshotsAspectRatio": "",
+    "youtubeVideo": ""
+  },
+  "locales": {
+    "en": {
+      "title": "Attended {{Hacktoberfest 2023}}",
+      "province": "Taxila",
+      "country": "Pakistan",
+      "institution": "Microsoft Learn Student Ambassadors UET Taxila & Artificial Intelligence Research and Development Society - UET Taxila",
+      "text": "I had the privilege to host and participate in [[Hacktoberfest 2023]], an inspiring event that brought together developers and tech enthusiasts to collaborate and innovate. The sessions featured insightful talks by our distinguished guest speakers, Arsalan Khattak, who shared valuable knowledge and expertise. The event was a tremendous success thanks to the efforts of the organizers and collaborators, including Microsoft Learn Student Ambassadors UET Taxila and the Artificial Intelligence Research and Development Society at UET Taxila 💻",
+      "list": [
+        "Hosted the event and facilitated smooth execution of sessions",
+        "Gained practical insights from expert speakers on open source contributions",
+        "Engaged with a vibrant community of developers and learners",
+        "Appreciated the collaborative spirit and organization behind the event",
+        "Enhanced my understanding of community-driven development and networking"
+      ]
+    }
+  }
+},
+
+              {
+  "id": 4,
+  "date": { "year": 2024, "month": 12 },
+  "preview": {
+    "links": [
+        {
+         "href": "https://www.linkedin.com/in/nawal-sajid-050010253/", 
+        "tooltipString": "open_link", 
+        "faIcon": "fa-solid fa-link"
+        }
+    ],
+    "screenshots": [],
+    "screenshotsAspectRatio": "",
+    "youtubeVideo": ""
+  },
+  "locales": {
+    "en": {
+      "title": "Attended {{DevFest 2024 – GDG Islamabad}}",
+      "province": "Rawalpindi",
+      "country": "Pakistan",
+      "institution": "Google Developer Groups Islamabad",
+      "text": "I had the incredible opportunity to attend [[DevFest 2024]], hosted by Google Developer Groups Islamabad at Pearl Continental Hotel Rawalpindi. The event was a powerful blend of inspiring talks, hands-on learning, and meaningful networking. It was truly energizing to connect with like-minded professionals and gain valuable insights from industry leaders💫",
+      "list": [
+        "Inspiring sessions delivered by speakers including Muhammad Umar Nazir, Mohammad Ali Ibrahim, Yasir Pirkani, Emad Ehsan, Mashhood Rastgar, Andleeb Aslam, Mehwish Tariq, and Wajahat Karim",
+        "Engaged in discussions on AI, innovation, and software development best practices",
+        "Networked with developers, tech leaders, and community builders from across Pakistan",
+        "Appreciation to GDG Islamabad for organizing such a well-executed and impactful event"
+      ]
+    }
+  }
+},
+
+              {
+  "id": 5,
+  "date": { "year": 2025, "month": 6 },
+  "preview": {
+    "links": [
+      {
+        "href": "https://www.linkedin.com/in/nawal-sajid-050010253/", 
+        "tooltipString": "open-link", 
+        "faIcon": "fa-solid fa-link"
+      }
+    ],
+    "screenshots": [],
+    "screenshotsAspectRatio": "",
+    "youtubeVideo": ""
+  },
+  "locales": {
+    "en": {
+      "title": "Attended {{AI Session at Microsoft Qatar}}",
+      "province": "Doha",
+      "country": "Qatar",
+      "institution": "Microsoft Office Qatar",
+      "text": "I recently attended an insightful session titled [[\"Making Language Models More Reliable: How To Detect & Reduce Hallucinations\"]], hosted at Microsoft Office Qatar 🇶🇦. The session was led by Samir Abdaljalil, a PhD researcher from Texas A&M University, who shared advanced techniques in improving AI reliability — including sparse autoencoders and methods to detect hallucinations in LLMs. 💡",
+      "list": [
+        "Explored key challenges in LLM reliability and real-world risks of hallucinations",
+        "Learned about sparse autoencoders and error reduction strategies in NLP",
+        "Connected with Fatima Tayeb, Cloud Solution Architect at Microsoft — a truly inspiring leader",
+        "Engaged in meaningful tech conversations and networking with peers including Fereshta Rahmani"
+      ]
+    }
+  }
+}
+
+            ]
+        }
+    ]
+}

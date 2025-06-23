@@ -1,0 +1,327 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Awards",
+                "title_short_nav": "Achievements",
+                "title_long_prefix": "Here are my",
+                "title_long": "Career {{Achievements}}"
+            },
+            "es": {
+                "title_short": "Logros",
+                "title_short_nav": "Logros",
+                "title_long_prefix": "Aquí están mis",
+                "title_long": "{{Logros}} Profesionales"
+            },
+            "fr": {
+                "title_short": "Réalis",
+                "title_short_nav": "Réalisations",
+                "title_long_prefix": "Voici",
+                "title_long": "Mes {{Réalisations}}"
+            },
+            "ko": {
+                "title_short": "경력 성과",
+                "title_short_nav": "경력 성과",
+                "title_long_prefix": "다음은",
+                "title_long": "{{경력 성과}}입니다"
+            }
+        }
+    },
+
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleCards",
+            "locales": {
+                "en": { "title": "Certifications" },
+                "es": { "title": "Certificaciones" },
+                "fr": { "title": "Certifications" },
+                "ko": { "title": "인증서" }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                
+    {
+                    "id": 1,
+                    "img": "",
+                    "faIcon": "fas fa-cog",
+                    "faIconColors": {"bg": "black", "fill": "#EEE"},
+
+                    "date": {"year": 2024, "month": 11},
+                    "link": {"href": "https://badgr.com/public/badges/G0U1YVeOSdGAiytb9Yw6_w", "tooltipString": "see_certification"},
+                    "locales": {
+                        "en": {
+                            "title": "{{Postman API}}",
+                            "text": "Postman API Student Expert"
+                        },
+                        "es": {
+                            "text": "Experto Estudiante en API de Postman"
+                        },
+                        "fr": {
+                            "text": "Expert Étudiant en API Postman"
+                        },
+                        "ko": {
+                            "text": "Postman API 학생 전문가"
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "img": "",
+                    "faIcon": "fa-brands fa-github",
+                    "faIconColors": {"bg": "black", "fill": "#EEE"},
+                    "date": {"year": 2024, "month": 11},
+                    "link": {"href": "https://www.credly.com/badges/55f4b2a8-1114-48a2-860b-e2daa2f92f1c/linked_in_profile", "tooltipString": "see_certification"},
+                    "locales": {
+                        "en": {
+                            "title": "{{Github Foundations}}",
+                            "text": "GitHub Foundations Certified (GFC)"
+                        },
+                        "es": {
+                            "text": "Certificación de Fundaciones de GitHub (GFC)"
+                        },
+                        "fr": {
+                            "text": "Certifié Fondations GitHub (GFC)"
+                        },
+                        "ko": {
+                            "text": "GitHub 재단 인증 (GFC)"
+                        }
+                    }
+                },
+                
+                {
+                    "id": 3,
+                    "img": "",
+                    "faIcon": "fa-solid fa-cloud",
+                    "faIconColors": {"bg": "black", "fill": "#00CFFF"},
+                    "date": {"year": 2024, "month": 4},
+                    "link": {"href": "https://learn.kodekloud.com/certificate/2DEF4933F60A-2DF627B764CE-2DEF3DA3BE64", "tooltipString": "see_certification"},
+                    "locales": {
+                        "en": {
+                            "title": "{{KodeKloud}}",
+                            "text": "PCAP - Python Certified"
+                        },
+                        "es": {
+                            "text": "PCAP - Python Certificado"
+                        },
+                        "fr": {
+                            "text": "PCAP - Python Certifié"
+                        },
+                        "ko": {
+                            "text": "PCAP - 파이썬 인증"
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "img": "",
+                    "faIcon": "fa-brands fa-aws",
+                    "faIconColors": {"bg": "#FFD700", "fill": "#111"},
+                    "date": {"year": 2024, "month": 2},
+                    "locales": {
+                        "en": {
+                            "title": "{{Amazon}} Web Services",
+                            "text": "AWS Cloud Fundamentals"
+                        },
+                        "es": {
+                            "text": "Fundamentos de la Nube de AWS"
+                        },
+                        "fr": {
+                            "text": "Certifié Fondations GitHub (GFC)"
+                        },
+                        "ko": {
+                            "text": "AWS 클라우드 기초"
+                        }
+                    }
+                }
+
+
+            ]
+        },
+
+        {
+            "id": 2,
+            "component": "ArticleThread",
+            "locales": {
+                "en": { "title": "Details" },
+                "es": { "title": "Details" },
+                "fr": { "title": "Details" },
+                "ko": { "title": "Details" }
+            },
+            "settings": {
+                "max_rows_collapse_threshold": 4,
+                "order_items_by": "date",
+                "order_items_sort": "desc"
+            },
+            "items": [
+               
+                    {
+  "id": 3,
+  "date": {"year": 2024, "month": 11},
+  "preview": {
+    "links": [],
+    "screenshots": [],
+    "screenshotsAspectRatio": "",
+    "youtubeVideo": ""
+  },
+  "locales": {
+    "en": {
+      "title": "GitHub Foundations Certified (GFC)",
+      "province": "",
+      "country": "",
+      "institution": "GitHub",
+      "text": "Certified in GitHub Foundations, demonstrating knowledge in version control, repositories, branching, pull requests, and collaborative workflows essential for modern development teams."
+    },
+    "es": {
+      "title": "Certificación en Fundamentos de GitHub (GFC)",
+      "province": "",
+      "country": "",
+      "institution": "GitHub",
+      "text": "Certificado en los fundamentos de GitHub, que abarca control de versiones, repositorios, ramas, pull requests y flujos de trabajo colaborativos clave para el desarrollo moderno."
+    },
+    "fr": {
+      "title": "Certification GitHub Foundations (GFC)",
+      "province": "",
+      "country": "",
+      "institution": "GitHub",
+      "text": "Certification obtenue pour la maîtrise des fondamentaux de GitHub : gestion de version, pull requests, branches et collaboration via les dépôts."
+    },
+    "ko": {
+      "title": "GitHub 기본 인증 (GFC)",
+      "province": "",
+      "country": "",
+      "institution": "GitHub",
+      "text": "GitHub의 기본 개념(버전 관리, 브랜치, 풀 리퀘스트, 협업 워크플로우 등)에 대한 이해도를 인증하는 자격을 취득했습니다."
+    }
+  }
+},
+{
+  "id": 4,
+  "date": {"year": 2024, "month": 11},
+  "preview": {
+    "links": [],
+    "screenshots": [],
+    "screenshotsAspectRatio": "",
+    "youtubeVideo": ""
+  },
+  "locales": {
+    "en": {
+      "title": "Postman API Student Expert",
+      "province": "",
+      "country": "",
+      "institution": "Postman",
+      "text": "Earned the Postman Student Expert badge by demonstrating proficiency in RESTful API testing, environment setup, writing tests, and using advanced Postman features like collections and scripts."
+    },
+    "es": {
+      "title": "Experto Estudiantil en APIs – Postman",
+      "province": "",
+      "country": "",
+      "institution": "Postman",
+      "text": "Obtuve la insignia de Experto Estudiantil en Postman por demostrar dominio en pruebas de APIs REST, configuración de entornos, redacción de pruebas y uso avanzado de colecciones."
+    },
+    "fr": {
+      "title": "Postman – Étudiant Expert en API",
+      "province": "",
+      "country": "",
+      "institution": "Postman",
+      "text": "Badge reçu pour la maîtrise de Postman : tests API REST, configuration des environnements, scripts et utilisation de collections."
+    },
+    "ko": {
+      "title": "Postman API 학생 전문가",
+      "province": "",
+      "country": "",
+      "institution": "Postman",
+      "text": "REST API 테스트, 환경 설정, 테스트 스크립트 작성 및 Postman의 고급 기능을 활용하여 Postman 학생 전문가 인증을 획득했습니다."
+    }
+  }
+},
+{
+  "id": 2,
+  "date": {"year": 2024, "month": 2},
+  "preview": {
+    "links": [],
+    "screenshots": [],
+    "screenshotsAspectRatio": "",
+    "youtubeVideo": ""
+  },
+  "locales": {
+    "en": {
+      "title": "AWS Cloud Fundamentals – Simplilearn",
+      "province": "",
+      "country": "",
+      "institution": "Simplilearn",
+      "text": "Completed a foundational course on Amazon Web Services (AWS), covering core services such as EC2, S3, IAM, and the basics of cloud architecture. Earned a certification upon successful completion and assessment."
+    },
+    "es": {
+      "title": "Fundamentos de la Nube de AWS – Simplilearn",
+      "province": "",
+      "country": "",
+      "institution": "Simplilearn",
+      "text": "Completé un curso fundamental sobre Amazon Web Services (AWS), abarcando servicios clave como EC2, S3, IAM y conceptos básicos de arquitectura en la nube. Obtuve la certificación tras superar la evaluación final."
+    },
+    "fr": {
+      "title": "Fondamentaux AWS Cloud – Simplilearn",
+      "province": "",
+      "country": "",
+      "institution": "Simplilearn",
+      "text": "Formation sur les bases d’AWS, y compris EC2, S3, IAM et les principes de l’architecture cloud. Certification obtenue après validation des compétences."
+    },
+    "ko": {
+      "title": "AWS 클라우드 기초 – Simplilearn",
+      "province": "",
+      "country": "",
+      "institution": "Simplilearn",
+      "text": "Amazon Web Services(AWS)의 핵심 서비스(EC2, S3, IAM 등)와 클라우드 아키텍처 기초를 포함한 기초 과정을 이수하고 인증서를 취득했습니다."
+    }
+  }
+},
+{
+  "id": 5,
+  "date": {"year": 2024, "month": 4},
+  "preview": {
+    "links": [],
+    "screenshots": [],
+    "screenshotsAspectRatio": "",
+    "youtubeVideo": ""
+  },
+  "locales": {
+    "en": {
+      "title": "PCAP – Python Certified",
+      "province": "",
+      "country": "",
+      "institution": "KodeKloud",
+      "text": "Successfully earned the PCAP – Python Certified Associate credential, demonstrating a strong understanding of Python programming fundamentals, including control structures, functions, modules, and object-oriented programming."
+    },
+    "es": {
+      "title": "PCAP – Asociado Certificado en Python",
+      "province": "",
+      "country": "",
+      "institution": "KodeKloud",
+      "text": "Obtuve con éxito la certificación PCAP – Asociado Certificado en Python, demostrando un sólido conocimiento de los fundamentos de programación en Python, como estructuras de control, funciones, módulos y programación orientada a objetos."
+    },
+    "fr": {
+      "title": "PCAP – Associé Certifié en Python",
+      "province": "",
+      "country": "",
+      "institution": "KodeKloud",
+      "text": "Certifié PCAP – Associé en Python après avoir démontré une solide compréhension des bases du langage Python, notamment les structures de contrôle, les fonctions, les modules et la programmation orientée objet."
+    },
+    "ko": {
+      "title": "PCAP – 파이썬 공인 준전문가",
+      "province": "",
+      "country": "",
+      "institution": "KodeKloud",
+      "text": "제어 구조, 함수, 모듈, 객체 지향 프로그래밍 등 파이썬 기초에 대한 깊은 이해를 바탕으로 PCAP – 파이썬 공인 준전문가 자격을 취득했습니다."
+    }
+  }
+}
+
+                                    
+            ]
+        }
+    ]
+}

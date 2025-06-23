@@ -1,0 +1,108 @@
+[
+  {
+    "id": 2,
+    "component": "ArticleSkills",
+    "locales": {
+      "en": { "title": "Backend Stack" },
+      "es": { "title": "Stack de Backend" },
+      "fr": { "title": "Stack Backend" },
+      "zh": { "title": "后端技术栈" }
+    },
+    "settings": {
+      "max_items_per_row": 3,
+      "max_rows_collapse_threshold": 6,
+      "order_items_by": "percentage",
+      "order_items_sort": "desc",
+      "round_icons": false
+    },
+    "items": [
+      {
+        "id": 1,
+        "img": "",
+        "faIcon": "fa-brands fa-node-js",
+        "faIconColors": { "bg": "", "fill": "#339933" },
+        "date": { "year": 2019, "month": 3 },
+        "percentage": 95,
+        "locales": {
+          "en": {
+            "title": "Node.js",
+            "text": "Certified developer by Node.js Foundation.",
+            "level": ""
+          },
+          "es": { "text": "Desarrollador certificado por la Fundación Node.js." },
+          "fr": { "text": "Développeur certifié par la Node.js Foundation." },
+          "ko": { "text": "Node.js 재단 인증 개발자." }
+        }
+      },
+      {
+        "id": 2,
+        "img": "",
+        "faIcon": "fa-brands fa-java",
+        "faIconColors": { "bg": "", "fill": "#0295c2", "fillLight": "#007396" },
+        "date": { "year": 2019, "month": 10 },
+        "percentage": 95,
+        "locales": {
+          "en": {
+            "title": "Java",
+            "text": "Oracle certified Java developer with a strong understanding of its ecosystem.",
+            "level": ""
+          },
+          "es": {
+            "text": "Desarrollador de Java certificado por Oracle con un sólido entendimiento de su ecosistema."
+          },
+          "fr": {
+            "text": "Développeur Java certifié Oracle avec une bonne compréhension de son écosystème."
+          },
+          "ko": { "text": "Oracle 인증 Java 개발자로 Java 생태계에 대한 강력한 이해." }
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "component": "ArticleSkills",
+    "locales": {
+      "en": { "title": "Frontend Stack" },
+      "es": { "title": "Stack de Frontend" },
+      "fr": { "title": "Stack Frontend" },
+      "zh": { "title": "前端技术栈" }
+    },
+    "settings": {
+      "max_items_per_row": 3,
+      "max_rows_collapse_threshold": 6,
+      "order_items_by": "percentage",
+      "order_items_sort": "desc",
+      "round_icons": false
+    },
+    "items": [
+      {
+        "id": 1,
+        "img": "",
+        "faIcon": "fa-brands fa-html5",
+        "faIconColors": { "bg": "", "fill": "#E34F26" },
+        "date": { "year": 2018, "month": 9 },
+        "percentage": 100,
+        "locales": {
+          "en": { "title": "HTML 5", "text": "I am proficient in HTML5 for building structured web pages.", "level": "" },
+          "es": { "text": "Soy competente en HTML5 para construir páginas web estructuradas." },
+          "fr": { "text": "Je suis compétent en HTML5 pour créer des pages web structurées." },
+          "ko": { "text": "구조화된 웹 페이지를 구축하기 위해 HTML5에 능숙합니다." }
+        }
+      },
+      {
+        "id": 2,
+        "img": "",
+        "faIcon": "fa-brands fa-css3-alt",
+        "faIconColors": { "bg": "", "fill": "#1572B6" },
+        "date": { "year": 2019, "month": 1 },
+        "percentage": 65,
+        "locales": {
+          "en": { "title": "CSS 3", "text": "I can create responsive and visually appealing designs using CSS3.", "level": "" },
+          "es": { "text": "Puedo crear diseños receptivos y visualmente atractivos utilizando CSS3." },
+          "fr": { "text": "Je peux créer des designs réactifs et visuellement attrayants en utilisant CSS3." },
+          "ko": { "text": "CSS3를 사용하여 반응형이고 시각적으로 매력적인 디자인을 만들 수 있습니다." }
+        }
+      }
+    ]
+  }
+]

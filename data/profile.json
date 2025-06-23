@@ -1,0 +1,42 @@
+{
+    "name": "Nawal Sajid",
+
+    "profilePictureUrl": "images/pictures/code.png",
+    "resumePdfUrl": "",
+    
+
+    "locales": {
+        "en": {
+            "localized_name": "Nawal Sajid",
+            "localized_name_stylized": " [[Nawal {{Sajid}}]]",
+            "roles": [
+                "Web Developer",
+                "AI/ML Enthusiast",
+                "Graphic Designer"
+            ]
+        },
+        "es": {
+            "roles": [
+                "Desarrollador Web",
+                "Entusiasta de IA/ML",
+                "Diseñador Gráfico"
+            ]
+        },
+        "fr": {
+            "roles": [
+                "Développeur Web",
+                "Ingénieur IA/ML",
+                "Designer Graphique"
+            ]
+        },
+        "ko": {
+            "localized_name": "최민석",
+            "localized_name_stylized": "{{최}}민석",
+            "roles": [
+                "웹 개발자",
+                "AI/ML 열정가",
+                "그래픽 디자이너"
+            ]
+        }
+    }
+}
